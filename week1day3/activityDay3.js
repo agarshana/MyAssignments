@@ -1,6 +1,6 @@
 //using var
 
-/*const browserVersion = "Chrome";
+const browserVersion = "Chrome";
 
 function getBrowserVersion() {
     if (browserVersion === "Chrome") {
@@ -10,7 +10,7 @@ function getBrowserVersion() {
     console.log(browserVersion);
 }
 
-getBrowserVersion(); */
+getBrowserVersion(); 
 
 //using let
 
